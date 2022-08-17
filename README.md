@@ -11,7 +11,7 @@
 课程前需要安装R与Rstudio，具体见[Preparation.pdf](0/Preparation.pdf)
 
 ## 1.R语言的数据模式与数据结构
-课程链接：https://pan.baidu.com/s/1cHenrtisYb0-_8PS0Eg2ZA 提取码：drvd  
+课程链接：https://pan.baidu.com/s/1cHenrtisYb0-_8PS0Eg2ZA (提取码：drvd)  
 课程大纲[D1.docx](1/D1.docx)  
 课程代码[D1.R](1/D1.R)  
 课程示例文件[D1.xlsx](1/D1.xlsx)  
