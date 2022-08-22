@@ -9,6 +9,8 @@
 ## 课程准备
 课程前需要安装[R](https://www.r-project.org/)与[Rstudio](https://www.rstudio.com/)，具体见[Preparation.pdf](0/Preparation.pdf)
 
+## 课程目录
+
 ### 1.R语言的数据模式与数据结构
 课程链接：https://pan.baidu.com/s/15s4EP9bHKO6gMiGaTF-Tiw  
 课程大纲：[D1.docx](1/D1.docx)  
