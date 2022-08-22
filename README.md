@@ -12,12 +12,13 @@
 ## 课程目录
 
 ### 1.R语言的数据模式与数据结构 
+课程链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ  
 课程大纲：[D1.docx](1/D1.docx)  
 课程代码：[D1.R](1/D1.R)  
 课程示例：[D1.xlsx](1/D1.xlsx)  
-视频链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ
+
 
 ### 2.R语言的函数结构与常用函数  
+课程链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ  
 课程大纲：[D2.docx](2/D2.docx)  
 课程代码：[D2.R](2/D2.R)  
-视频链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ
