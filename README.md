@@ -9,13 +9,13 @@
 ## 课程准备
 课程前需要安装[R](https://www.r-project.org/)与[Rstudio](https://www.rstudio.com/)，具体见[Preparation.pdf](0/Preparation.pdf)
 
-## 1.R语言的数据模式与数据结构
+### 1.R语言的数据模式与数据结构
 课程链接：https://pan.baidu.com/s/15s4EP9bHKO6gMiGaTF-Tiw  
 课程大纲：[D1.docx](1/D1.docx)  
 课程代码：[D1.R](1/D1.R)  
 课程示例：[D1.xlsx](1/D1.xlsx)  
 
-## 2.R语言的函数结构与常用函数
+### 2.R语言的函数结构与常用函数
 课程链接：  
 课程大纲：[D2.docx](2/D2.docx)  
 课程代码：[D2.R](2/D2.R)  
