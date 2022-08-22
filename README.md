@@ -7,7 +7,7 @@
 本课程版权为珠江医院检验医学部所有，请勿用于商业用途
 
 ## 课程准备
-课程前需要安装R与Rstudio，具体见[Preparation.pdf](0/Preparation.pdf)
+课程前需要安装[R]()与[Rstudio]()，具体见[Preparation.pdf](0/Preparation.pdf)
 
 ## 1.R语言的数据模式与数据结构
 课程链接：https://pan.baidu.com/s/15s4EP9bHKO6gMiGaTF-Tiw  
