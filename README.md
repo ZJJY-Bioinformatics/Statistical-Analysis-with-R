@@ -18,7 +18,7 @@
 课程示例：[D1.xlsx](1/D1.xlsx)  
 
 
-### 2.R语言的函数结构与常用函数  
+### 2.函数创建格式和if条件语句  
 课程链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ  
 课程大纲：[D2.docx](2/D2.docx)  
 课程代码：[D2.R](2/D2.R)  
