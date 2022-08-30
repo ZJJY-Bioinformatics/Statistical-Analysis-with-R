@@ -23,7 +23,7 @@
 课程大纲：[D2.docx](2/D2.docx)  
 课程代码：[D2.R](2/D2.R)  
 
-### 3.循环语句与常用函数课程  
+### 3.循环语句与常用函数  
 课程链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ  
 课程大纲：[D2.docx](2/D2.docx)  
 课程代码：[D3.R](3/D3.R)  
