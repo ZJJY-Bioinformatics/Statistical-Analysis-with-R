@@ -33,3 +33,4 @@
 课程链接：https://pan.baidu.com/s/1nyYzTXQPTFCty12C_oTXPQ  
 课程大纲：[D4.docx](4/D4.docx)  
 课程代码：[D4.R](4/D4.R)  
+演示文件：[F1.pdf](4/F1.pdf), [F2.pdf](4/F2.pdf), [F3.pdf](4/F3.pdf), [F4.pdf](4/F4.pdf), [F5.pdf](4/F5.pdf), [F6.pdf](4/F6.pdf), [F7.pdf](4/F7.pdf), [F8.pdf](4/F8.pdf), [F9.pdf](4/F9.pdf)
