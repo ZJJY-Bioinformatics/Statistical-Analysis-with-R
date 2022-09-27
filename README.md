@@ -36,6 +36,6 @@
 
 ### 5.统计检验基础二
 课程内容：卡方检验、各种方差检验（多因素方差分析、协方差分析、重复测量方差分析、多元方差分析等）。  
-课程大纲：[D6.pptx](6/D6.pptx)
-课程代码：[D6.R](6/D6.R)
-演示文件：[record.tsv](6/record.tsv), [record_long.tsv](6/record_long.tsv)
+课程大纲：[D6.pptx](6/D6.pptx)  
+课程代码：[D6.R](6/D6.R)  
+演示文件：[record.tsv](6/record.tsv), [record_long.tsv](6/record_long.tsv)  
