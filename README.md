@@ -34,8 +34,14 @@
 课程大纲：[D5.pptx](5/D5.pptx)  
 课程代码：[D5.R](5/D5.R)  
 
-### 5.统计检验基础二
+### 6.统计检验基础二
 课程内容：卡方检验、各种方差检验（多因素方差分析、协方差分析、重复测量方差分析、多元方差分析等）。  
 课程大纲：[D6.pptx](6/D6.pptx)  
 课程代码：[D6.R](6/D6.R)  
 演示文件：[record.tsv](6/record.tsv), [record_long.tsv](6/record_long.tsv)  
+
+### 7.相关分析与各种回归分析
+课程内容：变量相关性分析、线性回归、逻辑回归、随机森林等。  
+课程大纲：[D7.docx](7/D7.docx)  
+课程代码：[D7.R](7/D7.R)  
+演示文件：[test.csv](7/test.csv), [train.csv](7/train.csv), [UCR.tsv](7/UCR.tsv)
