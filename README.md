@@ -45,3 +45,9 @@
 课程大纲：[D7.docx](7/D7.docx)  
 课程代码：[D7.R](7/D7.R)  
 演示文件：[test.csv](7/test.csv), [train.csv](7/train.csv), [UCR.tsv](7/UCR.tsv)
+
+
+### 8.可视化分析和生存分析
+课程内容：可视化分析（PCA, PcoA, PLS-DA, OPLS-DA, 因子分析等）和生存分析。  
+课程大纲：[D8.pdf](8/D8.pdf)  
+课程代码：[D8.R](8/D8.R)  
