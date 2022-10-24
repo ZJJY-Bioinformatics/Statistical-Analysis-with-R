@@ -53,6 +53,6 @@
 课程代码：[D8.R](8/D8.R)  
 
 ## 9.16S分析R包MicrobiotaProcess
-课程内容：16S分析的R包MicrobiotaProcess的使用。  
+课程内容：MicrobiotaProcess的使用与操作。  
 课程大纲：[R-9.pptx](9/R-9.pptx)  
 课程代码：[D9.R](9/D9.R)  
